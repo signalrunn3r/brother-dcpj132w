@@ -4,7 +4,7 @@
 pkgname=brother-dcpj132w
 pkgver=3.0.0
 pkgrel=1
-pkgdesc="Driver for the Brother DCP-j132w printer"
+pkgdesc="Driver for the Brother DCP-j132w wifi printer"
 url="http://solutions.brother.com/linux/en_us/index.html"
 license=('custom:brother')
 depends=('a2ps' 'cups')
